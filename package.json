@@ -19,10 +19,12 @@
   },
   "homepage": "https://github.com/bmann505/battle-codes-EXPRESS#readme",
   "dependencies": {
+    "bcrypt": "^1.0.3",
     "body-parser": "^1.18.1",
     "cors": "^2.8.4",
     "dotenv": "^4.0.0",
     "express": "^4.15.4",
+    "jsonwebtoken": "^8.0.1",
     "knex": "^0.13.0",
     "pg": "^7.3.0"
   }
